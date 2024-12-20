@@ -1,0 +1,2 @@
+# RustGuide
+Rust Primer Notes
