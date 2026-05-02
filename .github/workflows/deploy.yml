@@ -32,7 +32,7 @@ jobs:
         run: mdbook build en
 
       - name: Build Chinese book
-        run: mdbook build zh
+        run: mdbook build zh-Hans
 
       - name: Add language selector homepage
         run: |
