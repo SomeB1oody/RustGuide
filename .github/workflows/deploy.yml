@@ -62,7 +62,7 @@ jobs:
             <p>Please select a language:</p>
             <p>
               <a href="./en/">English</a>
-              <a href="./zh/">中文</a>
+              <a href="./zh-Hans/">中文</a>
             </p>
           </body>
           </html>
