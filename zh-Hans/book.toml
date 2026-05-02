@@ -1,0 +1,12 @@
+[book]
+title = "Rust指南"
+authors = ["SomeB1oody"]
+description = "一份面向初学者的Rust编程指南。"
+language = "zh-Hans"
+src = "src"
+
+[build]
+build-dir = "../book/zh-Hans"
+
+[output.html]
+git-repository-url = "https://github.com/SomeB1oody/RustGuide"

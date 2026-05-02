@@ -1,0 +1,12 @@
+[book]
+title = "Rust Guide"
+authors = ["SomeB1oody"]
+description = "A beginner-friendly guide to Rust programming."
+language = "en"
+src = "src"
+
+[build]
+build-dir = "../book/en"
+
+[output.html]
+git-repository-url = "https://github.com/SomeB1oody/RustGuide"
