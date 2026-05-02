@@ -2,8 +2,8 @@
 
 - [简介](./Chapter-01/1.0/1.0._简介.md)
 - [安装Rust](./Chapter-01/1.1/1.1._安装Rust.md)
-- [Rust Cargo](./Chapter-01/1.3/1.3._Rust_Cargo.md)
 - [Rust的基本认识与“Hello World”](./Chapter-01/1.2/1.2._Rust的基本认识与“Hello_World”.md)
+- [Rust Cargo](./Chapter-01/1.3/1.3._Rust_Cargo.md)
 - [猜数游戏Pt.1 一次猜测](./Chapter-02/2.1/2.1._猜数游戏Pt.1_一次猜测.md)
 - [猜数游戏Pt.2 生成随机数](./Chapter-02/2.2/2.2._猜数游戏Pt.2_生成随机数.md)
 - [猜数游戏Pt.3 输入数与随机数的对比](./Chapter-02/2.3/2.3._猜数游戏Pt.3_输入数与随机数的对比.md)
