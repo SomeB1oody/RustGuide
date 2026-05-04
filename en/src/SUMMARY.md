@@ -47,3 +47,4 @@
 - [Trait Pt.1 - Trait Definitions, Bounds, and Implementation](./Chapter-10/10.3/10.3._Trait_Pt.1_-_Trait_Definitions,_Bounds,_and_Implementation.md)
 - [Trait Pt.2 - Traits as Parameters and Return Types, Trait Bounds](./Chapter-10/10.4/10.4._Trait_Pt.2_-_Traits_as_Parameters_and_Return_Types,_Trait_Bounds.md)
 - [Lifetime Definition and Significance, Borrow Checker, and Generic Lifetimes](./Chapter-10/10.5/10.5._Lifetime_Definition_and_Significance,_Borrow_Checker,_and_Generic_Lifetimes.md)
+- [lifetime Syntax and Examples](./Chapter-10/10.6/10.6._Lifetime_Syntax_and_Examples.md)
