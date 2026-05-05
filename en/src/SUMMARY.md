@@ -49,3 +49,4 @@
 - [Lifetime Definition and Significance, Borrow Checker, and Generic Lifetimes](./Chapter-10/10.5/10.5._Lifetime_Definition_and_Significance,_Borrow_Checker,_and_Generic_Lifetimes.md)
 - [lifetime Syntax and Examples](./Chapter-10/10.6/10.6._Lifetime_Syntax_and_Examples.md)
 - [Input and Output Lifetimes and the 3 Rules](./Chapter-10/10.7/10.7._Input_and_Output_Lifetimes_and_the_3_Rules.md)
+- [Lifetime Annotations in Method Definitions and Static Lifetime](./Chapter-10/10.8/10.8._Lifetime_Annotations_in_Method_Definitions_and_Static_Lifetime.md)
