@@ -51,3 +51,4 @@
 - [Input and Output Lifetimes and the 3 Rules](./Chapter-10/10.7/10.7._Input_and_Output_Lifetimes_and_the_3_Rules.md)
 - [Lifetime Annotations in Method Definitions and Static Lifetime](./Chapter-10/10.8/10.8._Lifetime_Annotations_in_Method_Definitions_and_Static_Lifetime.md)
 - [Writing and Running Tests](./Chapter-11/11.1/11.1._Writing_and_Running_Tests.md)
+- [Assertions](./Chapter-11/11.2/11.2._Assertions.md)
