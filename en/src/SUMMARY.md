@@ -52,3 +52,4 @@
 - [Lifetime Annotations in Method Definitions and Static Lifetime](./Chapter-10/10.8/10.8._Lifetime_Annotations_in_Method_Definitions_and_Static_Lifetime.md)
 - [Writing and Running Tests](./Chapter-11/11.1/11.1._Writing_and_Running_Tests.md)
 - [Assertions](./Chapter-11/11.2/11.2._Assertions.md)
+- [Custom Error Messages](./Chapter-11/11.3/11.3._Custom_Error_Messages.md)
