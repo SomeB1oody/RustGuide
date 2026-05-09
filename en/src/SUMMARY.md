@@ -53,3 +53,4 @@
 - [Writing and Running Tests](./Chapter-11/11.1/11.1._Writing_and_Running_Tests.md)
 - [Assertions](./Chapter-11/11.2/11.2._Assertions.md)
 - [Custom Error Messages](./Chapter-11/11.3/11.3._Custom_Error_Messages.md)
+- [Using should_panic to Check Panics](./Chapter-11/11.4/11.4._Using_should_panic_to_Check_Panics.md)
