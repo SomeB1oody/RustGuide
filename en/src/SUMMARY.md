@@ -54,3 +54,5 @@
 - [Assertions](./Chapter-11/11.2/11.2._Assertions.md)
 - [Custom Error Messages](./Chapter-11/11.3/11.3._Custom_Error_Messages.md)
 - [Using should_panic to Check Panics](./Chapter-11/11.4/11.4._Using_should_panic_to_Check_Panics.md)
+- [Using `Result<T, E>` in Tests](./Chapter-11/11.5/11.5._Using_Result_T,_E_in_Tests.md)
+- [Controlling Test Execution - Parallel and Sequential Tests](./Chapter-11/11.6/11.6._Controlling_Test_Execution_-_Parallel_and_Sequential_Tests.md)
