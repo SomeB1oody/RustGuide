@@ -56,3 +56,7 @@
 - [Using should_panic to Check Panics](./Chapter-11/11.4/11.4._Using_should_panic_to_Check_Panics.md)
 - [Using `Result<T, E>` in Tests](./Chapter-11/11.5/11.5._Using_Result_T,_E_in_Tests.md)
 - [Controlling Test Execution - Parallel and Sequential Tests](./Chapter-11/11.6/11.6._Controlling_Test_Execution_-_Parallel_and_Sequential_Tests.md)
+- [Running Tests by Name](./Chapter-11/11.7/11.7._Running_Tests_by_Name.md)
+- [Ignoring Tests](./Chapter-11/11.8/11.8._Ignoring_Tests.md)
+- [Unit Tests](./Chapter-11/11.9/11.9._Unit_Tests.md)
+- [Integration Tests](./Chapter-11/11.10/11.10._Integration_Tests.md)
