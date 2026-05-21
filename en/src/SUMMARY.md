@@ -65,3 +65,4 @@
 - [Refactoring Pt.1 - Improving Modularity](./Chapter-12/12.3/12.3._Refactoring_Pt.1_-_Improving_Modularity.md)
 - [Refactoring Pt.2 - Error Handling](./Chapter-12/12.4/12.4._Refactoring_Pt.2_-_Error_Handling.md)
 - [Refactoring Pt.3 - Moving Business Logic](./Chapter-12/12.5/12.5._Refactoring_Pt.3_-_Moving_Business_Logic.md)
+- [Developing Library Functionality with TDD](./Chapter-12/12.6/12.6._Developing_Library_Functionality_with_TDD.md)
