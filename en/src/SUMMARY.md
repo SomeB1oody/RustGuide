@@ -69,3 +69,4 @@
 - [Using Environment Variables](./Chapter-12/12.7/12.7._Using_Environment_Variables.md)
 - [Writing Error Messages to Standard Error](./Chapter-12/12.8/12.8._Writing_Error_Messages_to_Standard_Error.md)
 - [What Is a Closure and How to Use Closures](./Chapter-13/13.1/13.1._What_Is_a_Closure_and_How_to_Use_Closures.md)
+- [Closure Type Inference and Annotations](./Chapter-13/13.2/13.2._Closure_Type_Inference_and_Annotations.md)
