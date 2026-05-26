@@ -70,3 +70,4 @@
 - [Writing Error Messages to Standard Error](./Chapter-12/12.8/12.8._Writing_Error_Messages_to_Standard_Error.md)
 - [What Is a Closure and How to Use Closures](./Chapter-13/13.1/13.1._What_Is_a_Closure_and_How_to_Use_Closures.md)
 - [Closure Type Inference and Annotations](./Chapter-13/13.2/13.2._Closure_Type_Inference_and_Annotations.md)
+- [Storing Closures with Generic Parameters and `Fn` Traits](./Chapter-13/13.3/13.3._Storing_Closures_with_Generic_Parameters_and_Fn_Traits.md)
