@@ -71,3 +71,4 @@
 - [What Is a Closure and How to Use Closures](./Chapter-13/13.1/13.1._What_Is_a_Closure_and_How_to_Use_Closures.md)
 - [Closure Type Inference and Annotations](./Chapter-13/13.2/13.2._Closure_Type_Inference_and_Annotations.md)
 - [Storing Closures with Generic Parameters and `Fn` Traits](./Chapter-13/13.3/13.3._Storing_Closures_with_Generic_Parameters_and_Fn_Traits.md)
+- [Capturing the Environment with Closures](./Chapter-13/13.4/13.4._Capturing_the_Environment_with_Closures.md)
