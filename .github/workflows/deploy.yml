@@ -26,7 +26,13 @@ jobs:
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
         with:
-          mdbook-version: latest
+          mdbook-version: "0.5.2"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Clean output directory
+        run: rm -rf book
 
       - name: Build English book
         run: mdbook build en
