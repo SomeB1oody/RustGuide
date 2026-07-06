@@ -75,3 +75,4 @@
 - [Iterators - Definitions, the Iterator Trait, and the Next Method](./Chapter-13/13.5/13.5._Iterators_-_Definitions,_the_Iterator_Trait,_and_the_Next_Method.md)
 - [Methods That Consume and Produce Iterators](./Chapter-13/13.6/13.6._Methods_That_Consume_and_Produce_Iterators.md)
 - [Using Closures to Capture the Environment with Iterators](./Chapter-13/13.7/13.7._Using_Closures_to_Capture_the_Environment_with_Iterators.md)
+- [Creating Custom Iterators](./Chapter-13/13.8/13.8._Creating_Custom_Iterators.md)
