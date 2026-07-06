@@ -73,3 +73,4 @@
 - [Storing Closures with Generic Parameters and `Fn` Traits](./Chapter-13/13.3/13.3._Storing_Closures_with_Generic_Parameters_and_Fn_Traits.md)
 - [Capturing the Environment with Closures](./Chapter-13/13.4/13.4._Capturing_the_Environment_with_Closures.md)
 - [Iterators - Definitions, the Iterator Trait, and the Next Method](./Chapter-13/13.5/13.5._Iterators_-_Definitions,_the_Iterator_Trait,_and_the_Next_Method.md)
+- [Methods That Consume and Produce Iterators](./Chapter-13/13.6/13.6._Methods_That_Consume_and_Produce_Iterators.md)
