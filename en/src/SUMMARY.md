@@ -77,3 +77,4 @@
 - [Using Closures to Capture the Environment with Iterators](./Chapter-13/13.7/13.7._Using_Closures_to_Capture_the_Environment_with_Iterators.md)
 - [Creating Custom Iterators](./Chapter-13/13.8/13.8._Creating_Custom_Iterators.md)
 - [Improving the I/O Project with Closures and Iterators](./Chapter-13/13.9/13.9._Improving_the_IO_Project_with_Closures_and_Iterators.md)
+- [Performance of Closures and Iterators](./Chapter-13/13.10/13.10._Performance_Comparison_-_Loops_vs_Iterators.md)
