@@ -82,3 +82,4 @@
 - [Documentation Comments and Publishing Crates](./Chapter-14/14.2/14.2._Documentation_Comments_and_Publishing_Crates.md)
 - [Re-Exporting APIs with `pub use`](./Chapter-14/14.3/14.3._Re-Exporting_APIs_with_Pub_Use.md)
 - [Publishing Crates Part 2](./Chapter-14/14.4/14.4._Publishing_Crates_Part_2.md)
+- [Cargo Workspaces](./Chapter-14/14.5/14.5._Cargo_Workspace.md)
