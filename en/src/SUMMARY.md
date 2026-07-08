@@ -83,3 +83,4 @@
 - [Re-Exporting APIs with `pub use`](./Chapter-14/14.3/14.3._Re-Exporting_APIs_with_Pub_Use.md)
 - [Publishing Crates Part 2](./Chapter-14/14.4/14.4._Publishing_Crates_Part_2.md)
 - [Cargo Workspaces](./Chapter-14/14.5/14.5._Cargo_Workspace.md)
+- [Installing Binary Crates](./Chapter-14/14.6/14.6._Installing_Binary_Crates.md)
