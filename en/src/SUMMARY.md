@@ -79,3 +79,4 @@
 - [Improving the I/O Project with Closures and Iterators](./Chapter-13/13.9/13.9._Improving_the_IO_Project_with_Closures_and_Iterators.md)
 - [Performance of Closures and Iterators](./Chapter-13/13.10/13.10._Performance_Comparison_-_Loops_vs_Iterators.md)
 - [Cargo Publishing Configuration](./Chapter-14/14.1/14.1._Cargo_Publishing_Configuration.md)
+- [Documentation Comments and Publishing Crates](./Chapter-14/14.2/14.2._Documentation_Comments_and_Publishing_Crates.md)
