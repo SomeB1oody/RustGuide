@@ -80,3 +80,5 @@
 - [Performance of Closures and Iterators](./Chapter-13/13.10/13.10._Performance_Comparison_-_Loops_vs_Iterators.md)
 - [Cargo Publishing Configuration](./Chapter-14/14.1/14.1._Cargo_Publishing_Configuration.md)
 - [Documentation Comments and Publishing Crates](./Chapter-14/14.2/14.2._Documentation_Comments_and_Publishing_Crates.md)
+- [Re-Exporting APIs with `pub use`](./Chapter-14/14.3/14.3._Re-Exporting_APIs_with_Pub_Use.md)
+- [Publishing Crates Part 2](./Chapter-14/14.4/14.4._Publishing_Crates_Part_2.md)
