@@ -84,3 +84,4 @@
 - [Publishing Crates Part 2](./Chapter-14/14.4/14.4._Publishing_Crates_Part_2.md)
 - [Cargo Workspaces](./Chapter-14/14.5/14.5._Cargo_Workspace.md)
 - [Installing Binary Crates](./Chapter-14/14.6/14.6._Installing_Binary_Crates.md)
+- [Smart Pointer Intro - What Are Smart Pointers and Rust Smart Pointer Traits](./Chapter-15/15.0/15.0._Smart_Pointer_Intro_-_What_Are_Smart_Pointers_and_Rust_Smart_Pointer_Traits.md)
