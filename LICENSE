@@ -1,21 +1,29 @@
-MIT License
+Project Licensing
+=================
 
-Copyright (c) 2024 SomeB1oody
+This repository uses separate licenses for code and tutorial content.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Code
+----
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Code is licensed under the MIT License. This includes source code,
+configuration files, build/deployment files, scripts, templates, and code
+examples or snippets embedded in the tutorial content.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+See LICENSE-CODE for the full MIT License text.
+
+Content
+-------
+
+Tutorial/blog content is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0). This includes prose, explanations, chapter
+text, and non-code learning materials in the English and Simplified Chinese
+guides, unless otherwise noted.
+
+See LICENSE-CONTENT for the CC BY 4.0 notice.
+
+Generated Output
+----------------
+
+Generated mdBook output inherits the applicable license from its source
+material: code portions remain MIT, and tutorial/blog content remains CC BY 4.0.
