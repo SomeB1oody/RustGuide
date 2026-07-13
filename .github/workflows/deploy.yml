@@ -41,38 +41,7 @@ jobs:
         run: mdbook build zh-Hans
 
       - name: Add language selector homepage
-        run: |
-          cat > book/index.html <<'EOF'
-          <!DOCTYPE html>
-          <html lang="en">
-          <head>
-            <meta charset="utf-8">
-            <title>Rust Guide</title>
-            <style>
-              body {
-                font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-                max-width: 720px;
-                margin: 80px auto;
-                padding: 0 24px;
-                line-height: 1.6;
-              }
-              a {
-                display: inline-block;
-                margin-right: 16px;
-                font-size: 18px;
-              }
-            </style>
-          </head>
-          <body>
-            <h1>Rust Guide</h1>
-            <p>Please select a language:</p>
-            <p>
-              <a href="./en/">English</a>
-              <a href="./zh-Hans/">中文</a>
-            </p>
-          </body>
-          </html>
-          EOF
+        run: cp index.html book/index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
