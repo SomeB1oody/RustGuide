@@ -89,3 +89,4 @@
 - [What Is the `Deref` Trait, the Dereference Operator, and Implementing the `Deref` Trait](./Chapter-15/15.2/15.2._What_Is_the_Deref_Trait,_the_Dereference_Operator,_and_Implementing_the_Deref_Trait.md)
 - [Implicit Deref Coercion and Mutability](./Chapter-15/15.3/15.3._Implicit_Deref_Coercion_and_Mutability.md)
 - [Drop Trait - Goodbye to Manual Cleanup, Release is Safe](./Chapter-15/15.4/15.4._Drop_Trait_-_Goodbye_to_Manual_Cleanup,_Release_Is_Safe.md)
+- [`Rc<T>` - Reference-Counting Smart Pointer and Shared Ownership](./Chapter-15/15.5/15.5._Rc_T__-_Reference-Counting_Smart_Pointer_and_Shared_Ownership.md)
