@@ -87,3 +87,4 @@
 - [Smart Pointer Intro - What Are Smart Pointers and Rust Smart Pointer Traits](./Chapter-15/15.0/15.0._Smart_Pointer_Intro_-_What_Are_Smart_Pointers_and_Rust_Smart_Pointer_Traits.md)
 - [Using Box<T> to Point to Data on the Heap](./Chapter-15/15.1/15.1._Using_Box_T__to_Point_to_Data_on_the_Heap.md)
 - [What Is the `Deref` Trait, the Dereference Operator, and Implementing the `Deref` Trait](./Chapter-15/15.2/15.2._What_Is_the_Deref_Trait,_the_Dereference_Operator,_and_Implementing_the_Deref_Trait.md)
+- [Implicit Deref Coercion and Mutability](./Chapter-15/15.3/15.3._Implicit_Deref_Coercion_and_Mutability.md)
