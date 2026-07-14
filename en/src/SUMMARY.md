@@ -88,3 +88,4 @@
 - [Using Box<T> to Point to Data on the Heap](./Chapter-15/15.1/15.1._Using_Box_T__to_Point_to_Data_on_the_Heap.md)
 - [What Is the `Deref` Trait, the Dereference Operator, and Implementing the `Deref` Trait](./Chapter-15/15.2/15.2._What_Is_the_Deref_Trait,_the_Dereference_Operator,_and_Implementing_the_Deref_Trait.md)
 - [Implicit Deref Coercion and Mutability](./Chapter-15/15.3/15.3._Implicit_Deref_Coercion_and_Mutability.md)
+- [Drop Trait - Goodbye to Manual Cleanup, Release is Safe](./Chapter-15/15.4/15.4._Drop_Trait_-_Goodbye_to_Manual_Cleanup,_Release_Is_Safe.md)
