@@ -94,3 +94,4 @@
 - [Reference Cycles Causing Memory Leaks](./Chapter-15/15.7/15.7._Reference_Cycles_Causing_Memory_Leaks.md)
 - [Smart Pointer Intro - What Are Smart Pointers and Rust Smart Pointer Traits](./Chapter-15/15.0/15.0._Smart_Pointer_Intro_-_What_Are_Smart_Pointers_and_Rust_Smart_Pointer_Traits.md)
 - [Message Passing For Cross-Thread Data Transfer](./Chapter-16/16.2/16.2._Message_Passing_For_Cross-Thread_Data_Transfer.md)
+- [Concurrent Shared State](./Chapter-16/16.3/16.3._Concurrent_Shared_State.md)
