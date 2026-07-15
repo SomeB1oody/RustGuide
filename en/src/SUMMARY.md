@@ -92,3 +92,4 @@
 - [`Rc<T>` - Reference-Counting Smart Pointer and Shared Ownership](./Chapter-15/15.5/15.5._Rc_T__-_Reference-Counting_Smart_Pointer_and_Shared_Ownership.md)
 - [`RefCell` and Interior Mutability - Escaping Safety Restrictions](./Chapter-15/15.6/15.6._RefCell_and_Interior_Mutability_-_Escaping_Safety_Restrictions.md)
 - [Reference Cycles Causing Memory Leaks](./Chapter-15/15.7/15.7._Reference_Cycles_Causing_Memory_Leaks.md)
+- [Smart Pointer Intro - What Are Smart Pointers and Rust Smart Pointer Traits](./Chapter-15/15.0/15.0._Smart_Pointer_Intro_-_What_Are_Smart_Pointers_and_Rust_Smart_Pointer_Traits.md)
