@@ -95,6 +95,6 @@
 - [Message Passing For Cross-Thread Data Transfer](./Chapter-16/16.2/16.2._Message_Passing_For_Cross-Thread_Data_Transfer.md)
 - [Concurrent Shared State](./Chapter-16/16.3/16.3._Concurrent_Shared_State.md)
 - [Extending Concurrency with `Send` and `Sync` Traits](./Chapter-16/16.4/16.4._Extending_Concurrency_with_Send_and_Sync_Traits.md)
-- [Object-Oriented Programming Features](./Chapter-17/17.1/17.1._Rust's_Object-Oriented_Programming_Features.md)
+- [Object-Oriented Programming Features](./Chapter-17/17.1/17.1._Rusts_Object-Oriented_Programming_Features.md)
 - [Using Trait Objects to Store Values of Different Types](./Chapter-17/17.2/17.2._Using_Trait_Objects_to_Store_Values_of_Different_Types.md)
 - [Implementing an Object-Oriented Design Pattern](./Chapter-17/17.3/17.3._Implementing_an_Object-Oriented_Design_Pattern.md)
