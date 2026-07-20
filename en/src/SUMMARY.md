@@ -99,3 +99,4 @@
 - [Using Trait Objects to Store Values of Different Types](./Chapter-17/17.2/17.2._Using_Trait_Objects_to_Store_Values_of_Different_Types.md)
 - [Implementing an Object-Oriented Design Pattern](./Chapter-17/17.3/17.3._Implementing_an_Object-Oriented_Design_Pattern.md)
 - [Where Patterns Can Be Used](./Chapter-18/18.1/18.1._Where_Patterns_Can_Be_Used.md)
+- [Refutabilit - Whether a Pattern Can Fail to Match](./Chapter-18/18.2/18.2._Refutability_-_Whether_a_Pattern_Can_Fail_to_Match.md)
