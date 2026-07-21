@@ -101,3 +101,4 @@
 - [Where Patterns Can Be Used](./Chapter-18/18.1/18.1._Where_Patterns_Can_Be_Used.md)
 - [Refutabilit - Whether a Pattern Can Fail to Match](./Chapter-18/18.2/18.2._Refutability_-_Whether_a_Pattern_Can_Fail_to_Match.md)
 - [Pattern Syntax](./Chapter-18/18.3/18.3._Pattern_Syntax.md)
+- [Unsafe Rust - Escaping Safety Restrictions](./Chapter-19/19.1/19.1._Unsafe_Rust_-_Escaping_Safety_Restrictions.md)
