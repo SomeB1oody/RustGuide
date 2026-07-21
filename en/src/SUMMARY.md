@@ -104,3 +104,4 @@
 - [Unsafe Rust - Escaping Safety Restrictions](./Chapter-19/19.1/19.1._Unsafe_Rust_-_Escaping_Safety_Restrictions.md)
 - [Advanced Traits](./Chapter-19/19.2/19.2._Advanced_Traits.md)
 - [Advanced Functions and Closures](./Chapter-19/19.3/19.3._Advanced_Functions_and_Closures.md)
+- [Macros](./Chapter-19/19.4/19.4._Macros.md)
