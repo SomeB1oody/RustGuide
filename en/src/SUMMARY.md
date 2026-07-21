@@ -99,7 +99,7 @@
 - [Using Trait Objects to Store Values of Different Types](./Chapter-17/17.2/17.2._Using_Trait_Objects_to_Store_Values_of_Different_Types.md)
 - [Implementing an Object-Oriented Design Pattern](./Chapter-17/17.3/17.3._Implementing_an_Object-Oriented_Design_Pattern.md)
 - [Where Patterns Can Be Used](./Chapter-18/18.1/18.1._Where_Patterns_Can_Be_Used.md)
-- [Refutabilit - Whether a Pattern Can Fail to Match](./Chapter-18/18.2/18.2._Refutability_-_Whether_a_Pattern_Can_Fail_to_Match.md)
+- [Refutability - Whether a Pattern Can Fail to Match](./Chapter-18/18.2/18.2._Refutability_-_Whether_a_Pattern_Can_Fail_to_Match.md)
 - [Pattern Syntax](./Chapter-18/18.3/18.3._Pattern_Syntax.md)
 - [Unsafe Rust - Escaping Safety Restrictions](./Chapter-19/19.1/19.1._Unsafe_Rust_-_Escaping_Safety_Restrictions.md)
 - [Advanced Traits](./Chapter-19/19.2/19.2._Advanced_Traits.md)
@@ -108,3 +108,4 @@
 - [Advanced Types](./Chapter-19/19.5/19.5._Advanced_Types.md)
 - [The Final Project: A Single-Threaded Web Server](./Chapter-20/20.1/20.1._The_Final_Project_-_Single-Threaded_Web_Server.md)
 - [The Final Project: A Multithreaded Web Server](./Chapter-20/20.2/20.2._The_Final_Project_-_Multithreaded_Web_Server.md)
+- [The Final Project: Graceful Shutdown and Cleanup of the Web Server](./Chapter-20/20.3/20.3._The_Final_Project_-_Graceful_Shutdown_and_Cleanup_of_the_Web_Server.md)
